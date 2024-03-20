@@ -5,9 +5,11 @@
 #ifndef WEEK_1_MULTIPLICATION_H
 #define WEEK_1_MULTIPLICATION_H
 
+#include "operation.h"
 
-class multiplication {
-
+class multiplication : public operation {
+public:
+    virtual complex execute(complex a, complex b) const override;
 };
 
 

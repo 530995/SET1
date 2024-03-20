@@ -1,7 +1,6 @@
 #ifndef WEEK_1_ADDITION_H
 #define WEEK_1_ADDITION_H
 
-
 #include "operation.h"
 
 class addition : public operation {
