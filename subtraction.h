@@ -5,9 +5,11 @@
 #ifndef WEEK_1_SUBTRACTION_H
 #define WEEK_1_SUBTRACTION_H
 
+#include "operation.h"
 
-class subtraction {
-
+class subtraction : public operation {
+public:
+    virtual complex execute(complex a, complex b) const override;
 };
 
 
