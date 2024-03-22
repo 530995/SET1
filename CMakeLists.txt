@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.21 FATAL_ERROR)
-project(week_1)
+project(assignment-1)
 
 set(CMAKE_CXX_STANDARD 20)
 
