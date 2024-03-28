@@ -1,0 +1,2 @@
+# Restrict access to Build
+cmake-build-*
