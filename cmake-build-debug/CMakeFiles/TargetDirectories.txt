@@ -1,3 +1,0 @@
-D:/assignment-1-the-team-main/assignment-1-the-team-main/cmake-build-debug/CMakeFiles/week_1.dir
-D:/assignment-1-the-team-main/assignment-1-the-team-main/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/assignment-1-the-team-main/assignment-1-the-team-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
